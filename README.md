@@ -5,7 +5,6 @@
 - **Dataset :** FMCG
 
 ### Table of Contents
-### Table of Contents
 - [STAGE 1 Problem Statement](#stage-1-problem-statement)
   - [Introduction](#introduction)
   - [Business Questions](#business-questions)
