@@ -79,14 +79,14 @@ This analysis aims to evaluate the contribution of both distribution channels (E
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5dd8f62d-2862-4c76-9bb8-e07422f03026"  alt="Contoh Gambar" width="400" />
-  <p><em>Figure 4 — Sales by Channel Chart</em></p>
+  <p><em>Figure 3 — Sales by Channel Chart</em></p>
 </div>
 
 The visualization shows that **E-commerce recorded the highest sales**, indicating a clear shift in consumer behavior toward online transactions driven by convenience, broader product availability, and more aggressive digital promotions. Meanwhile, **Retail ranked second**, remaining relevant by offering direct customer experiences, particularly for consumers who prefer to evaluate products in-store before making a purchase. Lastly, **Discount contributed the least**, but still plays a strategic role in attracting price-sensitive customers and efficiently clearing excess inventory. Based on these findings, the company should reinforce digital marketing strategies in E-commerce, enhance customer experience in Retail, and tactically leverage the Discount channel to manage inventory without diminishing overall brand value.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/740a4d3d-7ea3-45aa-85d6-35e13ecd0a41"  alt="Contoh Gambar" width="400" />
-  <p><em>Figure 3 — Sales by Region Chart</em></p>
+  <p><em>Figure 4 — Sales by Region Chart</em></p>
 </div>
 
 The visualization shows that **PL-North recorded the highest sales**, indicating that this region has a larger customer base or stronger demand for the product. Next, **PL-Central ranked second**, reflecting a stable market potential even though it is not as dominant as PL-North. Meanwhile, **PL-South contributed the least**, highlighting potential challenges in market penetration or the need for more targeted strategies in that area. These findings suggest that the company should reinforce distribution and promotional efforts in PL-North to maintain its dominance, enhance customer engagement in PL-Central, and explore more aggressive marketing approaches in PL-South to increase competitiveness.
